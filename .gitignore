@@ -1,0 +1,19 @@
+# Binaires
+taskforged
+taskforge
+*.exe
+*.exe.manifest
+*.dll
+*.so
+*.dylib
+
+# SQLite & Sockets
+*.db
+*.db-wal
+*.db-shm
+/tmp/taskforge.sock
+
+# OS & IDE
+.DS_Store
+.vscode/
+.idea/
