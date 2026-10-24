@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "title": "Analyse DAG \u0026 CPM Avancée",
+    "duration": 50,
+    "completed": false,
+    "critical": false,
+    "status": ""
+  },
+  {
+    "id": 2,
+    "title": "Devpost hackathon submission ",
+    "duration": 45,
+    "completed": false,
+    "critical": false,
+    "status": ""
+  },
+  {
+    "id": 3,
+    "title": "Test Dynamique Live",
+    "duration": 50,
+    "completed": false,
+    "critical": false,
+    "status": ""
+  },
+  {
+    "id": 4,
+    "title": "Devpost hackathon submission",
+    "duration": 45,
+    "completed": false,
+    "critical": false,
+    "status": ""
+  },
+  {
+    "id": 5,
+    "title": "System Architecture Review",
+    "duration": 45,
+    "completed": false,
+    "critical": false,
+    "status": ""
+  },
+  {
+    "id": 6,
+    "title": "Devpost Final Submission",
+    "duration": 30,
+    "completed": false,
+    "critical": false,
+    "status": ""
+  },
+  {
+    "id": 7,
+    "title": "Test Devpost",
+    "duration": 30,
+    "completed": false,
+    "critical": false,
+    "status": ""
+  },
+  {
+    "id": 8,
+    "title": "Analyse de l'architecture réseau",
+    "duration": 45,
+    "completed": false,
+    "critical": false,
+    "status": ""
+  },
+  {
+    "id": 9,
+    "title": "Rédaction du rapport technique",
+    "duration": 30,
+    "completed": false,
+    "critical": false,
+    "status": ""
+  },
+  {
+    "id": 10,
+    "title": "Soumission finale Devpost",
+    "duration": 20,
+    "completed": false,
+    "critical": false,
+    "status": ""
+  }
+]
