@@ -16,7 +16,7 @@ func InitDB(dbPath string) (*DB, error) {
 	dsn := fmt.Sprintf("%s?_journal_mode=WAL&_busy_timeout=5000", dbPath)
 	conn, err := sql.Open("sqlite3", dsn)
 	if err != nil {
-		return nil, fmt.fmt.Errorf("impossible d'ouvrir la BDD: %w", err)
+		return nil, fmt.Errorf("impossible d'ouvrir la BDD: %w", err)
 	}
 
 	if err := conn.Ping(); err != nil {
